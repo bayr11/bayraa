@@ -1,11 +1,6 @@
-{
-  "email": "Bayarjavkhlan1104@gnail.com",
-  "phone": "88084986",
-  "company_name": "ModArt",
-  "product_images": [
-    "https://via.placeholder.com/400x300",
-    "https://via.placeholder.com/400x300"
-  ],
-  "admin_panel": true,
-  "online_payment_system": "QPay"
-}
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/your-username/your-repo-name.git
+git push -u origin main
